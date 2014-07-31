@@ -1,7 +1,7 @@
 {
   "name": "highmaps",
   "main": "highmaps.js highmaps.src.js highcharts.js highcharts.src.js",
-  "version": "v1.0.1",
+  "version": "v1.0.1B",
   "authors": [
     "anonymous"
   ],
@@ -13,12 +13,9 @@
     "yui"
   ],
   "keywords": [
-    "bower",
-    "module",
-    "beta",
-    "version"
+    "bower_module_nonOfficial_version"
   ],
-  "license": "MIT",
+  "license": "Creative Commons Attribution-NonCommercial 3.0 License",
   "homepage": "www.highcharts.com",
   "private": true,
   "ignore": [
