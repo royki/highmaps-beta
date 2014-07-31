@@ -1,0 +1,31 @@
+{
+  "name": "highmaps",
+  "main": "highmaps.js highmaps.src.js highcharts.js highcharts.src.js",
+  "version": "v1.0.1",
+  "authors": [
+    "anonymous"
+  ],
+  "description": "Highmaps from Highsoft",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "bower",
+    "module",
+    "beta",
+    "version"
+  ],
+  "license": "MIT",
+  "homepage": "www.highcharts.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
