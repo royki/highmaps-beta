@@ -17,7 +17,6 @@
   ],
   "license": "Creative Commons Attribution-NonCommercial 3.0 License",
   "homepage": "www.highcharts.com",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
