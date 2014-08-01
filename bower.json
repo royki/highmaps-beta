@@ -1,11 +1,11 @@
 {
-  "name": "highmaps",
+  "name": "highmaps-beta",
   "main": ["highmaps.js",
            "highmaps.src.js", 
            "highcharts.js", 
            "highcharts.src.js"
           ],
-  "version": "v1.0.1B",
+  "version": "v1.0.1",
   "authors": [
     "anonymous"
   ],
