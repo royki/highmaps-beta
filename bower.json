@@ -1,6 +1,10 @@
 {
   "name": "highmaps",
-  "main": "highmaps.js highmaps.src.js highcharts.js highcharts.src.js",
+  "main": ['highmaps.js',
+           'highmaps.src.js', 
+           'highcharts.js', 
+           'highcharts.src.js'
+          ],
   "version": "v1.0.1B",
   "authors": [
     "anonymous"
